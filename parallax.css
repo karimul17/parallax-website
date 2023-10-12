@@ -16,7 +16,7 @@ body {
 }
 
 .p-item1 {
-    background:url(/imges/m_1.png) center/cover no-repeat;
+    background:url(imges/m_1.png) center/cover no-repeat;
     
 }
 .content-img{
@@ -25,7 +25,7 @@ body {
 }
 
 .p-item3{
-    background: url(/imges/m_3.png) bottom/100% no-repeat;
+    background: url(imges/m_3.png) bottom/100% no-repeat;
     
     background-position: center;
     background-size: cover;
